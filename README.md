@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [The_Social_Network](https://github.com/ItsManuP/The-Social-Network)
 
-- 🌱 I’m currently learning (https://leetcode.com/manuel140298/)
+- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/)
 
 - 👯 I’m looking to collaborate on **(Front,Back)-end & ML projects**
 
