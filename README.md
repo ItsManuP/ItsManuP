@@ -7,9 +7,8 @@
 
 - 🔭 I’m currently working on [The_Social_Network](https://github.com/ItsManuP/The-Social-Network)
 
-- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/)
+- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) AND (https://portswigger.net/web-security/sql-injection)
 
-- 👯 I’m looking to collaborate on **(Front,Back)-end & ML projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
