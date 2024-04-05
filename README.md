@@ -10,9 +10,9 @@
 
 <h3 align="left">I'm interested in topics such as:</h3>
 <p align="left">
-   1. Machine Learning and LLM
-   2. Security Vuln & labs
-   3. Data science
+   1. Machine Learning and LLM \n
+   2. Security Vuln & labs \n
+   3. Data science \n
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
