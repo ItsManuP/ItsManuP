@@ -8,8 +8,11 @@
 - 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) & (https://portswigger.net/web-security/all-labs)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm interested in topics such as:</h3>
 <p align="left">
+   1. Machine Learning and LLM
+   2. Security Vuln & labs
+   3. Data science
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
