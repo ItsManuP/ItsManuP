@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmanup" alt="itsmanup" /></a> </p>
 
 
-- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) AND (https://portswigger.net/web-security/sql-injection)
+- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) & (https://portswigger.net/web-security/all-labs)
 
 
 <h3 align="left">Connect with me:</h3>
