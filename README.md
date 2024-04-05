@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmanup" alt="itsmanup" /></a> </p>
 
-- 🔭 I’m currently working on [The_Social_Network](https://github.com/ItsManuP/The-Social-Network)
 
 - 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) AND (https://portswigger.net/web-security/sql-injection)
 
