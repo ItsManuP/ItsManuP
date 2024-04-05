@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A Dev from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmanup&label=Profile%20views&color=0e75b6&style=flat" alt="itsmanup" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmanup" alt="itsmanup" /></a> </p>
 
