@@ -2,10 +2,7 @@
 <h3 align="center">A Dev from Italy</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmanup" alt="itsmanup" /></a> </p>
-
-
-- 🌱 As a Hobby i play on (https://leetcode.com/manuel140298/) & (https://portswigger.net/web-security/all-labs)
+- 🌱 Hobby => (https://portswigger.net/web-security/all-labs) & my personal projects
 
 
 <h3 align="left">I'm interested in topics such as:</h3>
