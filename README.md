@@ -8,8 +8,8 @@
 <h3 align="left">I'm interested in topics such as:</h3>
 <p align="left">
    1. Machine Learning & LLM <br>
-   2. Security Vuln & labs <br>
    3. Data science & analysis <br>
+   3. Security Vuln & labs <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
