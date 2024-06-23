@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">AI Engineer from Italy</h3>
 
-
-- 🌱 Hobby => (https://portswigger.net/web-security/all-labs) & my personal projects
-
-
 <h3 align="left">I'm interested in topics such as:</h3>
 <p align="left">
    1. Machine Learning & LLM <br>
